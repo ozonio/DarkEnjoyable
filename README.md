@@ -5,15 +5,11 @@ DarkEnjoyable has an enjoyable color scheme based on pastel shades
 
 ## DarkEnjoyable Style ##
 
-### Screenshots V1 ###
-![Screenshots 1](screenshots/darkenjoyable_1.png)
-![Screenshots 2](screenshots/darkenjoyable_2.png)
-![Screenshots 3](screenshots/darkenjoyable_3.png)
-
 ### Screenshots V2 ###
-![Screenshots 1](screenshots/darkenjoyablev2_1.png)
-![Screenshots 1](screenshots/darkenjoyablev2_2.png)
-![Screenshots 1](screenshots/darkenjoyablev2_3.png)
+##### image 1 #####
+![Screenshots 1](screenshots/darkenjoyablev2_1.jpg)
+##### image 2 #####
+![Screenshots 1](screenshots/darkenjoyablev2_2.jpg)
 
 ## Installation ##
 
